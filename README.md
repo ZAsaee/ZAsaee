@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 😄 My name is ... Zohreh Asae
+- 😄 My name is ... Zohreh Asaee
 - 🔭 I’m currently working on ... a computer vision project
 - 🌱 I’m currently learning ... reinforcement learning
 - 👯 I’m looking to collaborate on ... challenging and exciting deep learning project
